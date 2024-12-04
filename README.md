@@ -14,7 +14,7 @@ A PowerShell script to transform and clean Flora Incognita CSV data by extractin
    Place the CSV file you want to convert into the `input` folder.
 
 4. **Run the script:**  
-   Right-click on the file `convert.ps1` and select **“Run with PowerShell”**.
+   Right-click on the file `flora_incognita_csv_converter.ps1` and select **“Run with PowerShell”**.
 
 5. **Find the converted file:**  
    The converted file will be saved in the `output` folder.
